@@ -9,6 +9,7 @@
 #' @export
 #' @examples
 #' library(slgf)
+#' data(lymphoma)
 #' maketall(lymphoma)
 #'
 

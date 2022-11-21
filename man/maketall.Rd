@@ -17,6 +17,7 @@ maketall(data_matrix)
 }
 \examples{
 library(slgf)
+data(lymphoma)
 maketall(lymphoma)
 
 }

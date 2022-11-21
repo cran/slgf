@@ -7,7 +7,7 @@
 #'
 #' @docType data
 #'
-#' @usage data(locknut)
+#' @usage data(torque)
 #'
 #' @format A data frame with 60 rows and 3 variables:
 #' \describe{
@@ -22,4 +22,4 @@
 #' @keywords datasets
 #'
 #'
-"locknut"
+"torque"

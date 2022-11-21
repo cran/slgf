@@ -1,4 +1,4 @@
-#' Lymphoma data on genomic hybridizaiton signal from six dogs with normal and tumor
+#' Lymphoma data on genomic hybridization signal from six dogs with normal and tumor
 #' tissue samples taken.
 #'
 #' Franck et. al. (2013) analyzes the genomic hybridization signal

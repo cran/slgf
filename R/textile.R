@@ -1,11 +1,11 @@
-#' Chips data on breaking strength by starch type and chip thickness
+#' Textile data on breaking strength by starch type and chip thickness
 #'
-#' Flurry (1939) analyzes the breaking strength of a starch chip
+#' Furry (1939) analyzes the breaking strength of a starch chip
 #' as a function of the chip’s thickness (measured in 10^-4 inches) and the type
 #' of plant from which the starch was derived (corn, canna, or potato).
 #' @docType data
 #'
-#' @usage data(chips)
+#' @usage data(textile)
 #'
 #' @format A data frame with 49 rows and 3 variables:
 #' \describe{
@@ -15,9 +15,9 @@
 #' }
 #'
 #' @references
-#' \insertRef{Flurry}{slgf}
+#' \insertRef{Furry}{slgf}
 #'
 #' @keywords datasets
 #'
 #'
-"chips"
+"textile"

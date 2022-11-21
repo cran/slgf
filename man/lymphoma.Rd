@@ -3,7 +3,7 @@
 \docType{data}
 \name{lymphoma}
 \alias{lymphoma}
-\title{Lymphoma data on genomic hybridizaiton signal from six dogs with normal and tumor
+\title{Lymphoma data on genomic hybridization signal from six dogs with normal and tumor
 tissue samples taken.}
 \format{
 A data frame with 6 rows and 2 variables:
